@@ -1,1 +1,1 @@
-# Trial tutorial
+# DATA ANALYTIC PROJECT IN R
